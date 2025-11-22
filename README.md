@@ -5,8 +5,8 @@ This Bachelor's pre-thesis project aims to analyze and compare different bearing
 ## Repository Structure
 
 - `README.md` – Project overview and instructions  
-- `polish-version.pdf` – Original thesis in Polish  
-- `english-version.pdf` – Auto-translated English version
+- `Analiza rozwiązań konstrukcyjnych łożyskowania w silnikach turbinowych.pdf` – Original thesis in Polish  
+- `Analysis of bearing design solutions in turbine engines.pdf` – Auto-translated English version
 
 ## How to Use
 
